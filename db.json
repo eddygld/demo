@@ -2,13 +2,13 @@
   {
   	"food":
   	[
-	    { "name": "Seafood Ramen", "calories": "250 calories","fat": "2.7g", "protien": "29.5g", "carbs": "27g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/slow-cooker-seafood-ramen-1595624850.png?resize=768" },
-	    { "name": "Chicken Kebabs", "calories": "408 calories","fat": "6g", "protien": "56.7", "carbs": "34g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/grilled-chicken-and-vegetable-shish-kebabs-1595631020.jpg?resize=768" },
-	    { "name": "Turkey Carrot Mushroom Dumplings", "calories": "48 calories","fat": "1g", "protien": "4g", "carbs": "4g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/turkey-carrot-mushroom-dumplings-1595625372.jpg?resize=640" },
-	    { "name": "Loaded Cauliflower", "calories": "315 calories","fat": "28g", "protien": "11g", "carbs": "5g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/loaded-cauliflower-1595626265.png?resize=768" },
-	    { "name": "Cajun Shrimp Pasta", "calories": "384 calories","fat": "28g", "protien": "7g", "carbs": "22g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cajun-shrimp-pasta-1595627103.png?resize=768" },
-	    { "name": "Mongolian Beef", "calories": "303 calories","fat": "13g", "protien": "26g", "carbs": "20g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/quick-and-easy-mongolian-beef-1595627496.png?resize=768" },
-	    { "name": "Chicken Taco Soup", "calories": "258 calories","fat": "6.1g", "protien": "30g", "carbs": "22.7g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/health-chicken-taco-soup-1595627301.png?resize=768" }
+	    { "name": "Seafood Ramen", "calories": "250 calories","fat": "2.7g", "protien": "29.5g", "carbs": "27g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/slow-cooker-seafood-ramen-1595624850.png?" },
+	    { "name": "Chicken Kebabs", "calories": "408 calories","fat": "6g", "protien": "56.7", "carbs": "34g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/grilled-chicken-and-vegetable-shish-kebabs-1595631020.jpg?" },
+	    { "name": "Turkey Carrot Mushroom Dumplings", "calories": "48 calories","fat": "1g", "protien": "4g", "carbs": "4g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/turkey-carrot-mushroom-dumplings-1595625372.jpg?" },
+	    { "name": "Loaded Cauliflower", "calories": "315 calories","fat": "28g", "protien": "11g", "carbs": "5g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/loaded-cauliflower-1595626265.png?" },
+	    { "name": "Cajun Shrimp Pasta", "calories": "384 calories","fat": "28g", "protien": "7g", "carbs": "22g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cajun-shrimp-pasta-1595627103.png?" },
+	    { "name": "Mongolian Beef", "calories": "303 calories","fat": "13g", "protien": "26g", "carbs": "20g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/quick-and-easy-mongolian-beef-1595627496.png?" },
+	    { "name": "Chicken Taco Soup", "calories": "258 calories","fat": "6.1g", "protien": "30g", "carbs": "22.7g", "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/health-chicken-taco-soup-1595627301.png?" }
   	]
   
   }
